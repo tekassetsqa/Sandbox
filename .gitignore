@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AmarTestProject/.vs/AmarTestProject/FileContentIndex
+/AmarTestProject/.vs/AmarTestProject/v17
+*.feature.cs
+*.nupkg
+/.vs
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+v17
+FileContentIndex
+packages
+.vs
+ProjectEvaluation
+DesignTimeBuild
+*.lnk
