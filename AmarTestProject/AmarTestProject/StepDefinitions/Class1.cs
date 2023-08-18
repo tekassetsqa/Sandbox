@@ -14,6 +14,7 @@ namespace AmarTestProject.StepDefinitions
         public void Method1() {
             ChromeDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://www.facebook.com");
+           //siva is here
         }
     }
 }
